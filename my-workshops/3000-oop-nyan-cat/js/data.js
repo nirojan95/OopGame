@@ -1,9 +1,0 @@
-const GAME_WIDTH = 800;
-const GAME_HEIGHT = 800;
-
-const ENEMY_WIDTH = 80;
-const ENEMY_HEIGHT = 156;
-let MAX_ENEMIES = 2;
-
-const PLAYER_WIDTH = 75;
-const PLAYER_HEIGHT = 54;
